@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.age-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin-top: 30px;
+  background-color: #1c1c2b;
+  outline-color: #94a3b8;
+  outline-style: solid;
+  outline-width: 1px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.age-h1 {
+  color: #cbd5e1;
+  font-family: 'roboto';
+  font-weight: 500;
+}
